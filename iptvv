@@ -53,3 +53,13 @@ http://str24.l9574.com/721.stream/tracks-v1a1/index.m3u8
 http://str24.l9574.com/722.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,B4U Music
 http://str24.l9574.com/833.stream/tracks-v1a1/index.m3u8
+#EXTINF:-1,Sky News HD
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1,RT HD
+https://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
+#EXTINF:-1,France 24
+#http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8 
+#EXTINF:-1,DW HD
+#https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1,CBS HD
+#https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
