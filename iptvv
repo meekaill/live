@@ -9,14 +9,10 @@ http://vtvstreaming.myvnc.com:1935/vtvlive/vmedia/chunklist.m3u8
 http://iptvlive.stream:80/p/1003402/c/4/u/239157/MsjrSL1H3XbBLpW0qm5jTeaCKfY1y3.m3u8
 #EXTINF:-1,MBC TV
 http://iptvlive.stream:80/p/1003954/c/1/u/239157/MsjrSL1H3XbBLpW0qm5jTeaCKfY1y3.m3u8
-#EXTINF:-1,CNN
-http://iptvlive.stream:80/p/1002868/c/22/u/239157/MsjrSL1H3XbBLpW0qm5jTeaCKfY1y3
 #EXTINF:-1,LaLiga HD
 http://iptvlive.stream:80/p/1002868/c/61/u/239157/MsjrSL1H3XbBLpW0qm5jTeaCKfY1y3
 #EXTINF:-1,TCM HD
 http://iptvlive.stream:80/p/1001401/c/30/u/239157/MsjrSL1H3XbBLpW0qm5jTeaCKfY1y3.m3u8
-#EXTINF:-1,CNN HD
-http://iptvlive.stream:80/p/1001401/c/31/u/239157/MsjrSL1H3XbBLpW0qm5jTeaCKfY1y3.m3u8
 #EXTINF:-1,Wion
 http://str24.l9574.com/714.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Zee bollywood
@@ -29,8 +25,6 @@ http://str24.l9574.com/705.stream/tracks-v1a1/index.m3u8
 http://str24.l9574.com/706.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Colors
 http://str24.l9574.com/707.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,Ten sports
-http://str24.l9574.com/711.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sony Ten 2
 http://str24.l9574.com/712.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,Sony Ten 3
@@ -53,8 +47,6 @@ http://str24.l9574.com/721.stream/tracks-v1a1/index.m3u8
 http://str24.l9574.com/722.stream/tracks-v1a1/index.m3u8
 #EXTINF:-1,B4U Music
 http://str24.l9574.com/833.stream/tracks-v1a1/index.m3u8
-#EXTINF:-1,Sky News HD
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:-1,RT HD
 https://rt-uk.secure.footprint.net/1106_2500Kb.m3u8
 #EXTINF:-1,France 24
