@@ -65,3 +65,5 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
 https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 #EXTINF:-1,Weather HD
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+#EXTINF:-1,Sky Sport HD
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102233
