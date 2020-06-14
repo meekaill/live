@@ -69,3 +69,5 @@ https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/102233
 #EXTINF:-1,Realmadrid ENG
 http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/110562
+#EXTINF:-1,CNBC (US)
+http://interboxservice.co.uk:8080/mike12345/IriKQ72xo3/90755
